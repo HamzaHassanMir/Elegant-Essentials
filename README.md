@@ -272,7 +272,15 @@ All pages are fully responsive:
 - Cart layout stacks vertically on small screens
 - Admin dashboard has scrollable tables
 ---
- 
+
+## PageSpeed
+Tested and optimized website performance using Google PageSpeed Insights, achieving a 98/100 desktop performance score and 83/100 mobile score.
+
+<img width="1920" height="869" alt="Screenshot (507)" src="https://github.com/user-attachments/assets/bd478852-1c88-4772-b4cb-4458f159b501" />
+<img width="1920" height="862" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/62c7b652-955c-4bdb-bf71-a65915626415" />
+
+---
+
 ## 🤝 Contributing
  
 1. Fork the repository
