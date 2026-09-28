@@ -133,6 +133,11 @@ The app supports two sign-in methods:
 
 ---
 
+For understanding authentication in detail, read my article on DEV.to
+
+<a href="https://dev.to/hamza_hassan/how-i-built-jwt-oauth-authentication-and-password-security-with-bcrypt-in-my-mern-e-commerce-app-51fa">Article On Dev.to</a>
+---
+
 ## 🛒 Cart & State Management
  
 Cart state is managed by **Redux Toolkit** and **persisted to `localStorage`** automatically, so it survives page refreshes.
@@ -296,4 +301,4 @@ This project is licensed under the MIT License.
  
 ---
  
-<p align="center">Built by HH MIR TECH SOLUTIONS</p>
+<p align="center">Built by HAMZA HASSAN</p>
